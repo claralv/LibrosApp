@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/anadir_libro" android:title="Añadir libro"/>
+    <item android:id="@+id/anadir_autor" android:title="Añadir autor"/>
+    <item android:id="@+id/libros_de_autor"
+        android:title="Mostrar libros por autor"></item>
+</menu>
